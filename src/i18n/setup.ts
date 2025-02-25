@@ -6,7 +6,7 @@ import { zh } from './zh'
 
 i18n.use(initReactI18next).init({
   fallbackLng: 'zh',
-  lng: 'en',
+  lng: 'zh',
   interpolation: {
     escapeValue: false,
   },
