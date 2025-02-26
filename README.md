@@ -27,7 +27,7 @@ An intuitive app icon generator that lets you customize colors, borders, gradien
 
 You can use AppIcon Forge directly from GitHub Pages without any installation. Simply visit the following URL:
 
-[AppIcon Forge on GitHub Pages](https://zhangyu1818.github.io/appicon-forge/)
+[AppIcon Forge on GitHub Pages](https://icon.cubetec.asia/)
 
 If you want to run it locally:
 
@@ -35,7 +35,7 @@ Clone the repository and install dependencies:
 
 ```sh
 # Clone the repository
-git clone https://github.com/zhangyu1818/appicon-forge.git
+git clone https://github.com/cubeyu/appicon-forge.git
 
 # Navigate to the directory
 cd appicon-forge
